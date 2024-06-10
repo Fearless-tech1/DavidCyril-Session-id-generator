@@ -1,0 +1,22 @@
+{
+    "name": "QR/Pair code-md",
+    "description": "I'm Web QR by Gifted tech & Excel",
+    "logo": "https://i.ibb.co/HtT3vjm/goku-gif-3.gif",
+    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "keywords": ["@Xcelsama"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
