@@ -57,8 +57,8 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by WASI TECH*
-*_Made With 🤍_*
+*_Pair Code Connected by UCHIHA CLAN*
+*_Made With 🚬🗿_*
 ______________________________________
 ╔════◇
 ║ *『 AMAZING YOU'VE CHOSEN ITACHI UCHIHA 』*
@@ -66,12 +66,12 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
+║❒ *Ytube:* _youtube.com_
 ║❒ *Owner:* _https://wa.me/2349066528353_
 ║❒ *Repo:* _https://github.com/DeeCeeXxx/Itachi-Uchiha
 ║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
 ╚════════════════════════╝
 _____________________________________
 
