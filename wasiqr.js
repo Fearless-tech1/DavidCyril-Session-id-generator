@@ -1,5 +1,5 @@
 const PastebinAPI = require('pastebin-js'),
-pastebin = new PastebinAPI('EMWTMkQAVfJa9kM-MRUrxd5Oku1U7pgL')
+pastebin = new PastebinAPI('0029VahusSh0QeaoFzHJCk2x')
 const {makeid} = require('./id');
 const QRCode = require('qrcode');
 const express = require('express');
@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By David_Cyril*
+*_Session Connected By FEARLESS*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ITACHI UCHIHA 』*
+║ *『 AMAZING YOU'VE CHOSEN ZENITSU CRASH V2 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com
-║❒ *Owner:* https://wa.me/2349066528353_
-║❒ *Repo:* _https://github.com/DeeCeeXxx_
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *Plugins:* _https://github.com/Itxxwasi 
+║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
+║❒ *Owner:* https://wa.me/2348075952205_
+║❒ *Repo:* _https://github.com/Fearless-tech1_
+║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
+║❒ *Plugins:* _https://github.com/Fearless-tech1 
 ╚════════════════════════╝
 _____________________________________
 	
